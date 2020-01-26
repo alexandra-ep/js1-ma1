@@ -1,0 +1,1 @@
+These are my answers for the module assignment 1 in JavaScript 1. 26.01.2020. Alexandra Eline Pettersen
