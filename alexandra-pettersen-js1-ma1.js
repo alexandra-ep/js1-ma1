@@ -70,8 +70,6 @@ resultsContainer.innerHTML = newCatFunction(cats);
 
 
 // Question 10: Using the function from question 8, add a p element containing the age property from each object. If the age property is missing, it should display Age unknown instead. Wrap the h5 and p in a div.
-const moreHTML = newCatFunction(cats);
-
 function newCatFunction(anotherCatArray) {
     let moreHTML = "";
 
@@ -86,6 +84,5 @@ function newCatFunction(anotherCatArray) {
                         <p>${catsAge}</p>
                     </div>`;
     }
-
     return moreHTML;
 }
